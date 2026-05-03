@@ -1,0 +1,1 @@
+Анализ выполнен на основе данных, собранных ETL-пайплайном [`marketplace-data-pipeline`](https://github.com/Liza-VETA1104/marketplace-data-pipeline).
