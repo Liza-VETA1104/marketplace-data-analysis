@@ -1,5 +1,5 @@
 # Анализ продаж маркетплейса за 2025 год
-**Jupyter Notebook с полным кодом анализа:** [Открыть notebook →](https://github.com/Liza-VETA1104/marketplace-analysis/blob/main/Analysis_2025.ipynb)
+**Jupyter Notebook с полным кодом анализа:** [Открыть notebook →]((https://github.com/Liza-VETA1104/marketplace-data-analysis/blob/main/marketplace_analytics.ipynb))
 ## Ключевые выводы
 
 **Общая оценка бизнеса:**
